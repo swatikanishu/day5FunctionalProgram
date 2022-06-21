@@ -1,4 +1,4 @@
-package com.brodgelabz;
+package com.bridgelabz;
 import java.util.Scanner;
 public class WindChill{
         public static void main(String[] args) {
